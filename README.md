@@ -15,7 +15,12 @@ Java With SQL Database
  
 ![Log in](img/sign_in.PNG)
 
-- First : The Admin
+- First:The Admin.
+
+The Admin Have A Unique Options That He Can Do What Ever He Want With The Data Base.
+
+This Is What Will Appear When He Login : 4 Taps.
+
   - Add New Student
     - In This Tab The Admin Can Add New Student Information And Then He Can Modified It If There Where Any Error In The Data And He Can Delete The Data If He Want.
     
@@ -35,4 +40,15 @@ Java With SQL Database
     - This Report Can Give You An Overview About All Information In The Data Base Like The Data Of The Student ,The Courses ,And The Schedule Management.
     
   ![admin_Report](img/report.PNG)
+  
+-Second : Student
+
+The Student Have A Limited Options That He Couldn’t Do Any Thing Except Seeing His Data.
+
+This Is What Will Appear When He Login : 4 Taps.
+
+  - Student Information
+    - The Student Can Check His Data Which Was Added By The Admin.
+    
+  ![Student_info](img/my_info.PNG)
   
