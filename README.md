@@ -13,6 +13,25 @@ Java With SQL Database
   - 1.Admin
   - 2.Student
  
-![Log in](https://user-images.githubusercontent.com/52097278/93268529-9afe9580-f7ad-11ea-93c9-6d47caee330d.png)
-![admin_student](https://user-images.githubusercontent.com/52097278/93268537-9e921c80-f7ad-11ea-9f66-6a4c12101bfb.png)
-![Add Schedule](https://user-images.githubusercontent.com/52097278/93268544-a0f47680-f7ad-11ea-9635-2ef2efdd92e3.png)
+![Log in](img/sign_in.PNG)
+
+- First : The Admin
+  - Add New Student
+    - In This Tab The Admin Can Add New Student Information And Then He Can Modified It If There Where Any Error In The Data And He Can Delete The Data If He Want.
+    
+  ![admin_student](img/New_Student.PNG)
+  
+  - Add New Course
+    - In This Tab The Admin Can Add New Course Data And He Can Search About The Course To Modified It And Remove It If He Didn’t Need It Any More. 
+    
+  ![admin_Add Course](img/New_course.PNG)
+  
+  - Add New Schedule
+    - In This Tab The Admin Can Manage The Time And The Lecture And Fixed The Schedule And Modified Any Thing In It If There Where Any New Coming.
+    
+  ![admin_Add Schedule](img/new_schedule.PNG)
+  
+  - Report
+    - This Report Can Give You An Overview About All Information In The Data Base Like The Data Of The Student ,The Courses ,And The Schedule Management.
+  ![admin_Report](img/report.PNG)
+  
