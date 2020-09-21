@@ -1,9 +1,9 @@
 # College-Enrollment-System
-It Provides Software Which Helps The College Management In Recording All The Information Regarding
-Students And The Relevant Information Like Fees, Exam Schedule Etc.
-It Gives Us Particular Data About How A Student Can Enroll To A College , With An Ease Of Use. The System Is User Friend And Is Less Time Consuming .
-The Data Will Be Saved With In A Blink Of Time Into The Database.
-It Also Generates Crystal Clear Reports For The Needed User
+The program helps the college administration in recording all information related to students, courses, examination schedules, and class schedules.
+
+It allows the college administration to register students and courses in the college. It also enables him to make scheduling of classes and examinations and administer the college completely in an easy and fast way.
+
+It also generates clear reports on everything in the college.
 
 # Programming Languages used
 Java With SQL Database
