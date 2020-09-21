@@ -33,5 +33,6 @@ Java With SQL Database
   
   - Report
     - This Report Can Give You An Overview About All Information In The Data Base Like The Data Of The Student ,The Courses ,And The Schedule Management.
+    
   ![admin_Report](img/report.PNG)
   
