@@ -15,7 +15,7 @@ Java With SQL Database
  
 ![Log in](img/sign_in.PNG)
 
-- First:The Admin.
+- First : The Admin.
 
   - The Admin Have A Unique Options That He Can Do What Ever He Want With The Data Base.
 
@@ -50,5 +50,14 @@ Java With SQL Database
     - Student Information
       - The Student Can Check His Data Which Was Added By The Admin.
     
-  ![Student_info](img/my_info.PNG)
-  
+      ![Student_info](img/my_info.PNG) 
+      
+    - Student Course
+      - In This Tab The Student Can Check All The Courses That He Will Study In The Current Term.
+      
+      ![Student_course](img/My_Courses.PNG)
+      
+    - Student Schedule
+      - In This Tab The Student Can Know The Date Of The Exams And The Duration Of The Every Subject.
+      
+      ![Student_Schedule](img/my_schedule.PNG)
